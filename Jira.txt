@@ -1,0 +1,32 @@
+jira
+
+
+----
+
+https://sanisingh147.atlassian.net/jira/software/projects/SHOP/boards/3
+ site-- sachinsingh12
+ 
+===
+BACKLOCKS ---> Sprint---> Story 
+conectend with epic ---> with frontend
+
+:-- create a welcome page which should contain register button and and login button
+- create a web page in just html titled as welcome page
+2. it must contain two buttom-- register and login
+
+
+
+
+3.create register
+
+4. create login
+
+
+start --> create --> to-do --> in process --> done
+					 Analysis   anystatus    anystatus
+					 
+		
+
+ 		
+start --> create --> to-do --> in process --> done
+anystatus   anystatus    anystatus
